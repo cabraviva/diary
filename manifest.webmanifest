@@ -18,7 +18,7 @@
     {
       "name": "Diary",
       "short_name": "Diary",
-      "description": "Verwalte die Noten deiner Schüler",
+      "description": "Tagbeuch App",
       "url": "https://greencoder001.github.io/diary/stuff/",
       "icons": [{"src":"https://greencoder001.github.io/diary/src/img/icon.svg","type":"image/png","sizes":"640x640"}]
     }
