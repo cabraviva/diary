@@ -2,6 +2,7 @@ $main: #1df588
 $second: #1f3446
 $third: #fff
 $fourth: #b5b5b5
+$fifth: #1b4262
 
 *
   margin: 0
@@ -27,7 +28,32 @@ body
       color: $main
       border: 0
       outline: none
+      text-align: center
       font-size: 7vw
       background: rgba(0, 0, 0, 0)
   h4, h5, h6
     color: $third
+
+
+nav
+  position: absolute
+  height: 100 - 90vh
+  width: 100vw
+  background: $fifth
+  bottom: 0
+  display: flex
+  justify-content: space-around
+  align-items: center
+  left: 0
+
+  .navitem
+    cursor: pointer
+    color: $main
+    font-size: 220%
+
+main
+  position: absolute
+  width: 100vw
+  height: 90vh
+  top: 0
+  left: 0

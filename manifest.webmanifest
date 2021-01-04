@@ -1,7 +1,7 @@
 {
-  "short_name": "Noten Planer",
-  "name": "Noten Planer",
-  "description": "Verwalte die Noten deiner Schüler",
+  "short_name": "Diary",
+  "name": "Diary",
+  "description": "Tagebuch App",
   "icons": [
     {
       "src": "https://greencoder001.github.io/diary/src/img/icon.svg",
